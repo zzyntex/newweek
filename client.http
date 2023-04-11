@@ -3,7 +3,22 @@ Content-Type: application/json
 
 {
     "username": "zaid",
-    "password": "12345"
+    "password": "12345",
+    "name": "zaid",
+    "email":"ayiero12@gmail.com"
+
+}
+
+###
+POST http://localhost:3000/register
+Content-Type: application/json
+
+{
+    "username": "zaid",
+    "password": "12345",
+    "name": "zaid",
+    "email":"ayiero12@gmail.com"
+
 }
 
 ###
