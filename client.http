@@ -23,8 +23,9 @@ Content-Type: application/json
 
 ###
 
-GET http://localhost:3000
+GET http://localhost:3000/bye
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VybmFtZSI6InphaWQiLCJwYXNzd29yZCI6IjEyMzQ1IiwibmFtZSI6InphaWQiLCJlbWFpbCI6ImF5aWVybzEyQGdtYWlsLmNvbSIsImlhdCI6MTY4MTM3MTUzNn0.AG-aKlpr5VGqa_uHkowxfldAojsupDU5PmY14JmfVic
 
 ###
 
-GET http://localhost:3000/bruh
+GET http://localhost:3000/
